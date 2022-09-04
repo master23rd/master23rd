@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # Halo semua! 
 Perkenalkan nama saya **Adam Adi Prasetia**.\
-Saya seorang **System Analyst & Web Developer** di [PT. STAR KARLO INDONESIA](https://karlo.id/).\
+Saya seorang **System Analyst & Web Developer** di [PT. STAR KARLO INDONESIA](https://karlo.id/)
 
  
 <p align="left">
